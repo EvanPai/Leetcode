@@ -36,6 +36,6 @@ public:
     }
 };
 
-// Time complexity : O(2n) = O(n)
+// Time complexity : O(n)
 // Space complexity : O(1)
 
