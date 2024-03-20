@@ -1,9 +1,3 @@
-#include<iostream>
-#include<unordered_map>
-
-using namespace std;
-
-
 // key : naive,bit manipulation
 
 /*  explain:
