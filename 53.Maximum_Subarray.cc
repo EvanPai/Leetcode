@@ -6,6 +6,8 @@ using namespace std;
 /*  explain:
     special solution.
 
+    Kadane's
+
     can also use Divide and conquer    
 */
 
